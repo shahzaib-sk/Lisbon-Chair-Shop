@@ -27,3 +27,5 @@ Welcome to the Lisbon Chair Shop! This is a simple HTML and CSS project showcasi
     ```
 
 3. Open the `index.html` file in your preferred browser to view the project.
+
+Enjoy browsing our Lisbon Chair Shop! 🪑✨
