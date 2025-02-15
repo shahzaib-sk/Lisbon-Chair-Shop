@@ -7,7 +7,7 @@ Welcome to the Lisbon Chair Shop! This is a simple HTML and CSS project showcasi
 - Clean and modern design with a focus on product display.
 - Ensure usability on desktop, tablet, and mobile devices.
 - Simple, intuitive navigation for browsing chair products.
-- Includes a header, product section, and a footer with contact information.
+- Includes a header, product section, and a footer with contact information...
 
 ## Technologies Used
 
@@ -19,12 +19,12 @@ Welcome to the Lisbon Chair Shop! This is a simple HTML and CSS project showcasi
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/your-username/lisbon-chair-shop.git
-    ```
+
 
 2. Navigate into the project directory:
     ```bash
     cd lisbon-chair-shop
-    ```
+
 
 3. Open the `index.html` file in your preferred browser to view the project.
 
